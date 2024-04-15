@@ -7,7 +7,7 @@
 <div class="installation-steps">
     <div class="installation-step">
         <p>1. Clone this repository to your local machine:</p>
-        <pre><code>git clone https://github.com/your-username/random-jokes-backend.git</code></pre>
+        <pre><code>git clone https://github.com/tamsud-onwork/joke.git</code></pre>
     </div>
 
     <div class="installation-step">
